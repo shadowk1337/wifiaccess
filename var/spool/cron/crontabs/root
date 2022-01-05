@@ -1,0 +1,4 @@
+@reboot ~/ImpScriptDir/wifiaccess/wifiaccess_reboot_helper.sh 
+
+* * * * * ~/ImpScriptDir/wifiaccess/wifiaccess_reboot_helper.py
+* * * * * ~/ImpScriptDir/wifiaccess/wifiaccess.sh
